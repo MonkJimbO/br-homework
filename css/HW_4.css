@@ -1,0 +1,16 @@
+
+.top_tit {
+  font-size: 50px;
+  color: red;
+  position: absolute;
+  top: 0;
+  right: 120px;
+}
+
+.header{
+  color: blue;
+}
+
+.container{
+  color: green
+}
