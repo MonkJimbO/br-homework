@@ -3,6 +3,14 @@ h1 {
   color: #ffffff;
 }
 
+article {
+  font-size: 18px;
+}
+
+footer {
+  font-size: 20px;
+}
+
 .top_title {
   text-align: center;
   display: inline-block;
