@@ -1,16 +1,75 @@
-
-.top_tit {
-  font-size: 50px;
-  color: red;
-  position: absolute;
-  top: 0;
-  right: 120px;
+h1 {
+  background-color: #a52a2a;
+  color: #ffffff;
 }
 
-.header{
+.top_title {
+  text-align: center;
+  display: inline-block;
+  width: 759px;
+}
+
+.car {
+  display: inline-block;
+  border-style: dashed;
+}
+
+.cars {
+  display: block;
+  width: 759px;
+  text-align: center;
+}
+
+.First_paragraph {
+  display: block;
+  width: 759px;
+}
+
+.Second_paragraph {
+  display: block;
+  width: 759px;
+}
+
+.footer_copy {
+  text-align: center;
+  display: inline-block;
+  width: 759px;
+  background-color: black;
+  color: #ffffff;
+}
+
+.duis {
   color: blue;
 }
 
-.container{
-  color: green
+/* .car01 {
+  display: block;
+  border-style: dashed;
+  position: absolute
 }
+
+.car02 {
+  display: block;
+  border-style: dashed;
+  position: absolute
+}
+
+.car03 {
+  display: block;
+  border-style: dashed;
+}
+
+.car04 {
+  display: block;
+  border-style: dashed;
+}
+
+.car05 {
+  display: block;
+  border-style: dashed;
+}
+
+.car06 {
+  display: block;
+  border-style: dashed;
+} */
