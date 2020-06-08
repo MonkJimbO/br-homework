@@ -1,0 +1,29 @@
+/* .container {
+  display: inline-block;
+  width: 800px;
+  background-color: red;
+} */
+body {
+  display: inline-block;
+  background-color: #990909;
+}
+
+header {
+  display: block;
+}
+
+.title_pic {
+  /* display: inline-block; */
+  text-align: center;
+}
+
+/* copyrigth #e95b11 */
+.nav_item {
+  list-style: none;
+  display: inline-block;
+  margin: 0 10px;
+}
+
+nav {
+  display: inline-block;
+}
