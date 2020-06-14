@@ -1,0 +1,51 @@
+body {
+  /* display: inline-block; */
+  width: 1918px;
+  height: 418px;
+  background-color: #121115;
+}
+
+.logo {
+  /* display: inline-block; */
+}
+
+.Kasper_logo {
+  display: inline-block;
+  margin-left: 900px;
+  margin-top: 119px;
+}
+
+.Credo {
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 30.8px;
+  color: white;
+}
+
+.Separator {
+  display: inline-block;
+  width: 230px;
+  color: white;
+  margin-left: 842px;
+  margin-top: 18px;
+}
+
+.Link_img {
+  display: inline-block;
+  margin-top: 22px;
+  margin-left: 36px;
+}
+
+#first_img {
+  margin-left: 0;
+}
+
+.Link {
+  text-align: center;
+}
+
+.footer_text {
+  color: white;
+  text-align: center;
+  margin-top: 90px;
+}
