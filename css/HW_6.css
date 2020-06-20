@@ -1,0 +1,131 @@
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  border-color: green;
+  border-style: dashed;
+}
+
+.col {
+  display: inline-block;
+  width: 33.3%;
+  letter-spacing: normal;
+  padding: 0 15px;
+  text-align: center;
+}
+
+.icon_box {
+  width: 64px;
+  height: 64px;
+  line-height: 64px;
+  background: #2969a6;
+  border-radius: 50%;
+  margin: 32px auto;
+  font-size: 3.5em;
+}
+
+.first_icon_box {
+  width: 64px;
+  height: 64px;
+  line-height: 64px;
+  background: black;
+  border-radius: 50%;
+  margin: 32px auto;
+  font-size: 3.5em;
+}
+
+h2 {
+  font-weight: normal;
+  text-transform: uppercase;
+  margin-bottom: 25px;
+}
+
+.row {
+  letter-spacing: -0.36em;
+}
+
+.first_icon_box:hover, .icon_box:hover {
+  background-color: white;
+  border-style: solid;
+  border-color: black;
+}
+
+.Settings:hover, .Dashboard:hover, .Tablet:hover {
+  background-color: #2a69a6;
+}
+
+* {
+  transition: all .1s ease-in;
+}
+
+.shopping_list_header {
+  display: inline-block;
+  width: 100%;
+  letter-spacing: normal;
+  padding: 0 15px;
+  text-align: center;
+  background-color: #4a4f57
+}
+
+.main_list_back, .final_wish {
+  display: inline-block;
+  width: 100%;
+  background-color: #3b3f46;
+}
+
+h3, h4 {
+  color: #eb7d7f;
+}
+
+ul {
+  display: inline-block;
+  width: 800px;
+  letter-spacing: normal;
+  padding: 0 15px;
+  text-align: left;
+  margin: 0;
+  padding: 0;
+  color: white;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+ul li {
+  cursor: pointer;
+  position: relative;
+  padding: 12px 8px 12px 40px;
+  background: #eee;
+  font-size: 18px;
+  transition: 0.2s;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+ul li {
+  background: #88829e;
+}
+
+ul li:hover {
+  background: #625d77;
+  border-style: solid;
+  border-top-color: white;
+  border-bottom-color: white;
+}
+
+ul li.checked {
+  background: #7a7593;
+  color: #959cb5;
+  text-decoration: line-through;
+}
+
+.shopping_list_footer {
+  display: inline-block;
+  width: 800px;
+  letter-spacing: normal;
+  padding: 0 15px;
+  text-align: center;
+  background-color: #4a4f57;
+}
