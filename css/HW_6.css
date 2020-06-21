@@ -56,6 +56,10 @@ h2 {
   border-color: black;
 }
 
+.first_icon_box:hover .Tablet {
+  background-color: #2a69a6;
+}
+
 .icon_box:hover .Dashboard {
   background-color: #2a69a6;
 }
