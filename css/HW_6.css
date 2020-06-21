@@ -25,6 +25,11 @@
   font-size: 3.5em;
 }
 
+.Settings, .Dashboard, .Tablet {
+  display: inline-block;
+  border-radius: 50%;
+}
+
 .first_icon_box {
   width: 64px;
   height: 64px;
@@ -53,12 +58,10 @@ h2 {
 
 .icon_box:hover .Dashboard {
   background-color: #2a69a6;
-  border-radius: 100%;
 }
 
 .icon_box:hover .Settings {
   background-color: #2a69a6;
-  border-radius: 100%;
 }
 
 /* .Settings:hover, .Dashboard:hover, .Tablet:hover {
