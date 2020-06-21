@@ -51,10 +51,19 @@ h2 {
   border-color: black;
 }
 
-.Settings:hover, .Dashboard:hover, .Tablet:hover {
+.icon_box:hover .Dashboard {
   background-color: #2a69a6;
+  border-radius: 100%;
 }
 
+.icon_box:hover .Settings {
+  background-color: #2a69a6;
+  border-radius: 100%;
+}
+
+/* .Settings:hover, .Dashboard:hover, .Tablet:hover {
+  display: none;
+} */
 * {
   transition: all .1s ease-in;
 }
