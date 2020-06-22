@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(/img/HW_11/header_back.png);
+}
+
+.top_part {
+  display: flex;
+  border-style: dashed;
+  border-color: red;
+}
+
+.main_container {
+  /* position: absolute; */
+  top, left: 0px;
+  width: 100%;
+  border: 0;
+}
